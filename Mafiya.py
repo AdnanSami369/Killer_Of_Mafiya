@@ -332,5 +332,6 @@ def rcrack(uid,pwx,tl):
         sys.stdout.flush()
     except:
         pass
-Adnansami369
-ud()
+        
+
+ud(adnansami)
