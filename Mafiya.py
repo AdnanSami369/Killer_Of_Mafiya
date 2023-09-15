@@ -24,7 +24,7 @@ def ud():
     print(' [2] EXIT')
     opt = input('\n   CHOOSE OPTION >>>\033[1;37m ')
     if opt == '1':
-        os.system('xdg-open https://youtube.com/channel/UCqmAeJg_2YaF9q_zFIxwSlQ')
+        os.system('xdg-open https://youtube.com/@Killer.of.mafiya?si=SscPDw3tT0hewyLS')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
