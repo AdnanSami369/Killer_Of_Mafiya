@@ -331,7 +331,7 @@ def rcrack(uid,pwx,tl):
         sys.stdout.write(' %s[ADNAN_Sami] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
         sys.stdout.flush()
     except:
-        pass
-        adnansami369
+        pass adnansami
+       
 
 ud()
